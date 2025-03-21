@@ -1,4 +1,4 @@
-# ML FastAPI Project
+# FRONTEND HTML/CSS Test
 
 This project is just creates a HTML/CSS webpage as asked for the frontend test
 
